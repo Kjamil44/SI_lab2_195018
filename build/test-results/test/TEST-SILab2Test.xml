@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-05-24T22:02:02" hostname="KAKALESKI" time="0.045">
+  <properties/>
+  <testcase name="test1()" classname="SILab2Test" time="0.029"/>
+  <testcase name="test2()" classname="SILab2Test" time="0.001"/>
+  <testcase name="test3()" classname="SILab2Test" time="0.001"/>
+  <testcase name="test4()" classname="SILab2Test" time="0.002"/>
+  <testcase name="test5()" classname="SILab2Test" time="0.0"/>
+  <testcase name="test6()" classname="SILab2Test" time="0.002"/>
+  <testcase name="test7()" classname="SILab2Test" time="0.001"/>
+  <testcase name="test8()" classname="SILab2Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
